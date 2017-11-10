@@ -5,13 +5,14 @@
  public class Project {
 
  public static void main(String[] args) {
- //demonstrateVar.demonstrateVariable(); // calls
- //integerDiv.integerDivide();
- //personSpeak.personTalk();
- //arrayTest.arrayList();
+	 //demonstrateVar.demonstrateVariable(); // calls
+	 //integerDiv.integerDivide();
+	 //personSpeak.personTalk();
+	 //arrayTest.arrayList();
 	 //condAndRela.cond();
 	 //condAndRela.rela();
-	 hashMap.database();
+	 //hashMap.database();
+	 //switchStat.switchYear();
  }
 }
 
