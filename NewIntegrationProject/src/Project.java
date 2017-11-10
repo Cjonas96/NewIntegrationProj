@@ -10,7 +10,8 @@
  //personSpeak.personTalk();
  //arrayTest.arrayList();
 	 //condAndRela.cond();
-	 condAndRela.rela();
+	 //condAndRela.rela();
+	 hashMap.database();
  }
 }
 
