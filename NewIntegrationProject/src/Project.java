@@ -8,7 +8,9 @@
  //demonstrateVar.demonstrateVariable(); // calls
  //integerDiv.integerDivide();
  //personSpeak.personTalk();
- arrayTest.arrayList();
+ //arrayTest.arrayList();
+	 //condAndRela.cond();
+	 condAndRela.rela();
  }
 }
 
