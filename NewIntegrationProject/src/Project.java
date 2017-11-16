@@ -21,16 +21,16 @@ public class Project {
       } else if (index == 3) {
         personSpeak.personTalk();
         break;
-      } else if (index == 4){
+      } else if (index == 4) {
         condAndRela.cond();
         break;
-      } else if (index == 5){
+      } else if (index == 5) {
         condAndRela.rela();
         break;
-      } else if (index == 6){
+      } else if (index == 6) {
         switchStat.switchYear();
         break;
-      } else if (index == 7){
+      } else if (index == 7) {
         hashMap.database();
         break;
       } else {
