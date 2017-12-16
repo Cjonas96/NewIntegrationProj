@@ -1,7 +1,7 @@
 public class integerDiv {
+    static int x = 8;
+    static int y = 3;
   public static void integerDivide() {
-    int x = 8;
-    int y = 3;
     int div = x / y;
     // dividing by int wont work because java cannot process it.
     System.out.println(div);
