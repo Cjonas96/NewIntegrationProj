@@ -40,12 +40,14 @@ public class Project {
 				} else if (index == 9) {
 					Inheritance.sum();
 					break;
-				} 
-				else if (index == 10) {
+				} else if (index == 10) {
 					polyArr.polyArray();
 					break;
+				} else if (index == 11) {
+					QueueEx.Que();
+					break;
 				} else {
-					System.out.println("Not found. Please enter a number 1-7.");
+					System.out.println("Please enter a number 1-12.");
 					break;
 				}
 			} catch (Exception e) {
