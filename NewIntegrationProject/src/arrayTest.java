@@ -1,4 +1,5 @@
 public class arrayTest {
+	//creates an array list
   public static void arrayList() {
     int sum = 0;
     int[] arrayList = { 5, 10, 15, 20, 25, 30, 35, 40 };
