@@ -3,6 +3,8 @@ import java.util.Scanner;
 /**
  * Christian Jonas Demonstrating for the Integration Project
  */
+// Checkstyle does not work with google guidelines in most classes
+// This is the index where you can call what you want to see.
 public class Project {
     private static Scanner input;
 
@@ -46,6 +48,10 @@ public class Project {
                 } else if (index == 11) {
                     QueueEx.Que();
                     break;
+                } else if (index == 12) {
+                        arrayTest.arrayList();
+                        break;
+                    
                 } else {
                     System.out.println("Please enter a number 1-12.");
                     break;

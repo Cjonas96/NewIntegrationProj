@@ -1,3 +1,4 @@
+//Conditional Method
 public class condAndRela {
     public static void cond() {
         int num1 = 3;
@@ -14,6 +15,7 @@ public class condAndRela {
         }
     }
 
+    //Relational Method
     public static void rela() {
         int num90 = 90;
         int num91 = 91;
