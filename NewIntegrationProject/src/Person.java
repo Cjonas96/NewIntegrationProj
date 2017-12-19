@@ -1,8 +1,8 @@
 //person says hello
 public class Person {
-	public void message(String name) { // Method
-		System.out.println("Hi " + name);
-	}
+    public void message(String name) { // Method
+        System.out.println("Hi " + name);
+    }
 }
 /**
  * byte: The byte data type is an 8-bit signed two's complement integer. short:

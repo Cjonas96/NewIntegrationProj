@@ -1,6 +1,6 @@
 
 public class cat extends polymorph {
-	public void animal() {
-		System.out.println("Cat = Meow!");
-	}
+    public void animal() {
+        System.out.println("Cat = Meow!");
+    }
 }
